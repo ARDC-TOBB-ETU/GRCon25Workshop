@@ -1,4 +1,4 @@
-# Simple Replay Attack Demo with GNU Radio
+# Simple Replay Attack Demo with GNU Radio and HackRF
 
 This workshop showcases replay attacks on a mini-setup which includes remote-controlled LED and an off-the-shelf SDR. The workshop aims to show how GNU Radio can be used in every step of a replay attack attempt.  
 
